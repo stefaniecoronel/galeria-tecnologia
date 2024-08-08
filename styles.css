@@ -1,11 +1,13 @@
 body {
     background-color: rgb(65, 146, 192);
+    text-align: center;
 }
 
 .image{
     border: 4px solid rgb(255, 255, 255);
     border-radius: 5%;
     height: 400px;
+    text-align: center;
 }
 
 .link-button {
